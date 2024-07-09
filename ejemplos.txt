@@ -1,0 +1,17 @@
+Ejemplo #1
+print("Hola, Mundo!")
+
+Ejemplo #2
+num1 = 10.5
+num2 = 8.2
+suma = num1 + num2
+suma = 18.7
+
+Ejemplo #3
+fruta1 = "manzana"
+fruta2 = "plátano"
+fruta3 = "cereza"
+fruta4 = "mango"
+
+
+
